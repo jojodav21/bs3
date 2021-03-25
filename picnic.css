@@ -238,7 +238,6 @@ i[class*=" icon-"]:before {
 }
 .label,
 [data-tooltip]:after,
-button,
 .button,
 [type=submit],
 .dropimage {
