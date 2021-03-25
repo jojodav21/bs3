@@ -2990,7 +2990,7 @@ select.stack:focus+select {
 }
 @media (max-width: 60em) {
 	.modal .overlay ~ * {
-		min-width: 90%
+		min-width: 60%
 	}
 }
 .dropimage {
